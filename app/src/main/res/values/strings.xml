@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MarvelApp</string>
+    <string name="alphabet_ascending">По алфавиту</string>
+    <string name="alphabet_descending">По алфавиту в обратном порядке</string>
+    <string name="date_ascending">По дате изменения</string>
+    <string name="date_descending">По дате изменения в обратном порядке</string>
+    <string name="filters">Фильтры</string>
+    <string name="apply">Применить</string>
+</resources>
